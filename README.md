@@ -14,7 +14,6 @@
   <li>The markup of the same element is not duplicated for different screen resolutions </li>
   <li>the html code complies with all the rules of the codestyle (indentation, tabulation, attribute order, etc.). </li>
 </ul>
-
 <h3>css:</h3>
 <ul>
   <li>CSS selectors lack cascade (nesting)</li>
@@ -24,7 +23,6 @@
   <li>The !important directive is not used</li>
   <li>The number of breakpoints is no more than 6</li>
 </ul>
-
 <h3>Appearance:</h3>
 <ul>
   <li>The document display corresponds to the layout</li>
@@ -33,7 +31,6 @@
   <li>The layout is displayed the same way in the following browsers: Chrome, Edge, Safari, Opera, Firefox</li>
   <li>All interactive elements have states :hover, :active, :focus (all states are smooth)</li>
 </ul>
-
 <h3>Adaptive layout:</h3>
 <ul>
   <li>The site looks neat on any width from 320 and above. </li>
@@ -42,7 +39,6 @@
   <li>Adaptive rubber</li>
   <li>Safe breakpoints are used </li>
 </ul>
-
 <h3>BEM:</h3>
 <ul>
   <li>There are no elements without a block</li>
@@ -52,7 +48,11 @@
   <li>BEM entity naming styles do not mix</li>
   <li></li>
 </ul>
-
+<h3>Availability:</h3>
+<ul>
+  <li>The website interface is accessible from the keyboard</li>
+  <li>The website interface is available when using the screen reader</li>
+</ul>
 <h3>Other:</h3>
 <ul>
   <li>The folder structure is organized correctly: styles in the css folder, scripts in js, images in img, libraries in libs, etc.</li>
@@ -61,9 +61,5 @@
   <li>The images are named in English according to the meaning</li>
 </ul>
 
-<h3>Availability:</h3>
-<ul>
-  <li>The website interface is accessible from the keyboard</li>
-  <li>The website interface is available when using the screen reader</li>
-</ul>
+
 
