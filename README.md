@@ -1,7 +1,11 @@
 # Blanchard-landing
-Blanchard landing layout training project
+<p>
+  The landing page has an adaptive layout, which ensures its correct display on various devices: from computers to tablets and smartphones. All information on the site is accessible and clearly visible.
+  The landing page works equally well in Chrome, Firefox, Safari, Opera and Edge browsers, providing a comfortable viewing experience for users.
+</p>
 
-<h2>html:</h2>
+<h2>Requirements.</h2>
+<h3>html:</h3>
 <ul>
   <li>all decorative elements are made through css</li>
   <li>the semantics are observed, the elements header, footer, main, nav, section, time, address, etc. are used.</li>
@@ -11,7 +15,7 @@ Blanchard landing layout training project
   <li>the html code complies with all the rules of the codestyle (indentation, tabulation, attribute order, etc.). </li>
 </ul>
 
-<h2>css:</h2>
+<h3>css:</h3>
 <ul>
   <li>CSS selectors lack cascade (nesting)</li>
   <li>The indents in the project are made according to the recommendations</li>
@@ -21,7 +25,7 @@ Blanchard landing layout training project
   <li>The number of breakpoints is no more than 6</li>
 </ul>
 
-<h2>Appearance:</h2>
+<h3>Appearance:</h3>
 <ul>
   <li>The document display corresponds to the layout</li>
   <li>The layout is made by Pixel Perfect, the maximum difference from the layout is 3 pixels</li>
@@ -30,7 +34,7 @@ Blanchard landing layout training project
   <li>All interactive elements have states :hover, :active, :focus (all states are smooth)</li>
 </ul>
 
-<h2>Adaptive layout:</h2>
+<h3>Adaptive layout:</h3>
 <ul>
   <li>The site looks neat on any width from 320 and above. </li>
   <li>Pixel perfect is implemented on breakpoints corresponding to the site layouts. </li>
@@ -39,7 +43,7 @@ Blanchard landing layout training project
   <li>Safe breakpoints are used </li>
 </ul>
 
-<h2>BEM:</h2>
+<h3>BEM:</h3>
 <ul>
   <li>There are no elements without a block</li>
   <li>Missing elements of the element (block__elem__elem)</li>
@@ -49,7 +53,7 @@ Blanchard landing layout training project
   <li></li>
 </ul>
 
-<h2>Other:</h2>
+<h3>Other:</h3>
 <ul>
   <li>The folder structure is organized correctly: styles in the css folder, scripts in js, images in img, libraries in libs, etc.</li>
   <li>Cursor: pointer has been added to interactive elements (if it is not present initially)</li>
@@ -57,7 +61,7 @@ Blanchard landing layout training project
   <li>The images are named in English according to the meaning</li>
 </ul>
 
-<h2>Availability:</h2>
+<h3>Availability:</h3>
 <ul>
   <li>The website interface is accessible from the keyboard</li>
   <li>The website interface is available when using the screen reader</li>
